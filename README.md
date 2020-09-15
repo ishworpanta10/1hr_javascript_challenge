@@ -8,3 +8,11 @@
 -   animation
 
 2. Toast Notification 
+
+3. autowrite text 
+
+4. popup modal
+
+5. heart rain
+
+6. background changer
