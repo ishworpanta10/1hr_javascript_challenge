@@ -18,3 +18,5 @@
 6. background changer
 
 7. Toggle dark theme
+
+8. Carousel
