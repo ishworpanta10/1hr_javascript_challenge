@@ -16,3 +16,5 @@
 5. heart rain
 
 6. background changer
+
+7. Toggle dark theme
